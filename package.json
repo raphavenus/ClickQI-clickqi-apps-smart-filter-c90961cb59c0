@@ -1,0 +1,19 @@
+{
+  "name": "@ClickQi/clickqi-apps-smart-filter",
+  "version": "0.1.0",
+  "description": "Construct a package to Multiple Filter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://git-clickqi:bfKGnknsGDkKdPu58sRp@bitbucket.org/ClickQI/clickqi-apps-smart-filter.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "package",
+    "smart",
+    "filter"
+  ],
+  "dependencies": {
+    "urijs": "^1.19.2"
+  }
+}
